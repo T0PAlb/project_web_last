@@ -144,7 +144,7 @@ function Contact() {
 
     try {
       // Отправка на FormCarry
-      const response = await fetch('https://formcarry.com/s/4de_SmQ7P5q', {
+      const response = await fetch('https://formcarry.com/s/jPNLWXFAziU', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
